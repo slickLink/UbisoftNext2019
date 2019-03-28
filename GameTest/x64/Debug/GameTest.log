@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  app.cpp
+  main.cpp
+  GameTest.cpp
+  Ghost.cpp
+  Node.cpp
+  Pacman.cpp
+  PathFinding.cpp
+  TileMap.cpp
+c:\dev\c++\ubisoft_toronto_next_programming_api_2019\gametest\tilemap.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  GameTest.vcxproj -> C:\Dev\C++\Ubisoft_Toronto_NEXT_Programming_API_2019\x64\Debug\GameTest.exe
+  C:\Dev\C++\Ubisoft_Toronto_NEXT_Programming_API_2019\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
